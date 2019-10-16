@@ -1,0 +1,9 @@
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\BlocNote.csproj.GenerateResource.cache
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\BlocNote.csproj.CoreCompileInputs.cache
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\BlocNote.csprojAssemblyReference.cache
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\bin\Debug\freeOffice.exe
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\bin\Debug\freeOffice.pdb
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\BlocNote.freeOfficeParentForm.resources
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\freeOffice.Properties.Resources.resources
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\freeOffice.exe
+C:\Users\14188\Desktop\Mes programmes\PROG1236 C#\BlocNote\BlocNote\obj\Debug\freeOffice.pdb

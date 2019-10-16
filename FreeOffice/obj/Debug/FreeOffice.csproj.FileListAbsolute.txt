@@ -1,0 +1,17 @@
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\bin\Debug\freeOffice.exe
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\bin\Debug\freeOffice.pdb
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\FreeOffice.csprojAssemblyReference.cache
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\BlocNote.freeOfficeParentForm.resources
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\freeOffice.Properties.Resources.resources
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\FreeOffice.csproj.GenerateResource.cache
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\freeOffice.exe
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\BlocNote\obj\Debug\freeOffice.pdb
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\bin\Debug\freeOffice.exe
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\bin\Debug\freeOffice.pdb
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\FreeOffice.csprojAssemblyReference.cache
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\freeOffice.freeOfficeParentForm.resources
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\freeOffice.FreeOfficeEnfantForm.resources
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\freeOffice.Properties.Resources.resources
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\FreeOffice.csproj.GenerateResource.cache
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\freeOffice.exe
+C:\Users\Raoul\Documents\Niv2\c#\FreeOffice\FreeOffice\obj\Debug\freeOffice.pdb
